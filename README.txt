@@ -3,8 +3,8 @@ VR in Unity - Schießstand
 
 =======
 TEAMMITGLIEDER:
-Karen Hofele[204029]
-Tabea Leibl[204105]
+Karen Hofele
+Tabea Leibl
 
 =======
 DEMOVIDEO:
